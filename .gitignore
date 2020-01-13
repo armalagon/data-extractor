@@ -1,0 +1,9 @@
+# IDEA
+*.iml
+.idea/
+
+# Maven
+target/
+
+# McOS
+.DS_Store
